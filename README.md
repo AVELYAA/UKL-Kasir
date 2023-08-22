@@ -1,1 +1,7 @@
-# UKL-Kasir
+![Tampilan Login](https://github.com/AVELYAA/UKL-Kasir/assets/142861437/27c64a76-1e8b-4eb4-ad1a-ac46eab20dcb)
+![Tampilan Register](https://github.com/AVELYAA/UKL-Kasir/assets/142861437/e6317b0b-bea2-4f94-a861-0de67d63df64)
+![Tampilan Menu](https://github.com/AVELYAA/UKL-Kasir/assets/142861437/9d019a9f-1be3-47b1-aba6-b37b92943c13)
+![Tampilan AddPesanan](https://github.com/AVELYAA/UKL-Kasir/assets/142861437/25d966e9-7c28-4d5f-b995-3f4f28ae9d3f)
+![Tampilan AddMeja](https://github.com/AVELYAA/UKL-Kasir/assets/142861437/84082ddb-a4a2-4cd1-8bd9-3b8baaf31aec)
+![Tampiolan AddMakanan   Minuman](https://github.com/AVELYAA/UKL-Kasir/assets/142861437/efd9e2dd-a862-44f0-a415-f5e8228cb1e2)
+![Tampilan Transaksi History](https://github.com/AVELYAA/UKL-Kasir/assets/142861437/4a9f682f-2f7c-4c29-819b-1499b1c37da0)
